@@ -1,0 +1,11 @@
+id,real diagnosis,classical diagnosis,qaoa diagnosis
+84862001,M,M,M
+849014,M,M,B
+8510426,B,B,B
+8510653,B,B,B
+8510824,B,B,B
+8511133,M,M,M
+851509,M,M,B
+857156,B,B,B
+857343,B,B,B
+857392,M,M,M
